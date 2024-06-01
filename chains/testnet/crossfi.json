@@ -1,11 +1,11 @@
 {
-    "chain_name": "crossfi-testnet-1",
-    "api": ["https://crossfi-testnet-api.forpeaky.xyz"],
-    "rpc": ["https://crossfi-testnet-rpc.forpeaky.xyz"],
+    "chain_name": "Junction-Testnet",
+    "api": ["http://5.252.55.132:43417"],
+    "rpc": ["http://5.252.55.132:43457"],
     "coingecko": "",
     "snapshot_provider": "",
-    "sdk_version": "0.47.1",
+    "sdk_version": "0.50.3",
     "coin_type": "118",
-    "min_tx_fee": "500",
-    "addr_prefix": "crossfi"
+    "min_tx_fee": "0.025",
+    "addr_prefix": "amf"
     }
